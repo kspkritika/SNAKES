@@ -7,8 +7,8 @@ As you collect the gems, you grow in size. But, if you run into yourself, you di
 The lion appears after collection of every 5 gems. But the game gets challenging, when the lion holds a gem and you have to sneak it out from him swiftly.
 
 To play this game, you need following things:
-    - python 2.7
-    - minimum 17 inch laptop
-    - pygame 
-    - speakers to hear the background music
+    \n- python 2.7
+    \n- minimum 17 inch laptop
+    \n- pygame 
+    \n- speakers to hear the background music
     
