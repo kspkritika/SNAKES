@@ -6,9 +6,9 @@ The game is simple.
 As you collect the gems, you grow in size. But, if you run into yourself, you die. Also, if you hit the boundaries or the lion, you die.
 The lion appears after collection of every 5 gems. But the game gets challenging, when the lion holds a gem and you have to sneak it out from him swiftly.
 
-To play this game, you need following things:
-    \n- python 2.7
-    \n- minimum 17 inch laptop
-    \n- pygame 
-    \n- speakers to hear the background music
+To play this game, you need following things:<br />
+    - python 2.7<br />
+    - minimum 17 inch laptop<br />
+    - pygame<br /> 
+    - speakers to hear the background music<br />
     
